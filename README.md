@@ -6,7 +6,7 @@ Department of Mathematics, Howard University, Washington, DC.
 
 All people, places, organizations and numbers in the data are invented.
 
-**Website:** https://YOUR-USERNAME.github.io/messy-data-library/
+**Website:** https://doumbiassa.github.io/AI_DS_ML.github.io/
 
 Each dataset comes in two files:
 
@@ -17,7 +17,7 @@ Load any file directly in Python:
 
 ```python
 import pandas as pd
-df = pd.read_csv("https://YOUR-USERNAME.github.io/messy-data-library/data/student-success.csv")
+df = pd.read_csv("https://doumbiassa.github.io/messy-data-library/data/student-success.csv")
 ```
 
 | Record | Dataset | Subject | Rows | File |
