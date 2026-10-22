@@ -17,7 +17,7 @@ Load any file directly in Python:
 
 ```python
 import pandas as pd
-df = pd.read_csv("https://doumbiassa.github.io/messy-data-library/data/student-success.csv")
+df = pd.read_csv("https://doumbiassa.github.io/AI_DS_ML.github.io/messy-data-library/data/student-success.csv")
 ```
 
 | Record | Dataset | Subject | Rows | File |
